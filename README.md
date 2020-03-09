@@ -1,5 +1,5 @@
 Hands on ->
-On Ansible-Controller Node -
+On Ansible-Controller  server -
 
 Step 01: The Application Files
 https://github.com/TroubleshooteRJ/k8scicd
